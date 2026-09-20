@@ -1,7 +1,7 @@
 # Koala Browser Project
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/koala-browser/.github/main/assets/koala-logo.png" width="128" height="128" alt="Koala Browser Logo" />
+  <img src="https://raw.githubusercontent.com/koala-browser/.github/main/koala-logo.png" width="128" height="128" alt="Koala Browser Logo" />
   <p><strong>A Modern, High-Assurance Hybrid Browser</strong></p>
   <p>JavaFX 21 UI Shell • JCEF Chromium Subprocesses • AES-256-GCM Vault • DNS-over-HTTPS</p>
 </div>
